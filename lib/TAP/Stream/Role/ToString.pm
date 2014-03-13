@@ -1,5 +1,5 @@
 package TAP::Stream::Role::ToString;
-$TAP::Stream::Role::ToString::VERSION = '0.01';
+$TAP::Stream::Role::ToString::VERSION = '0.44';
 # ABSTRACT: Named strings for TAP::Stream and TAP::Stream::Text
 
 use Moose::Role;
@@ -27,7 +27,7 @@ TAP::Stream::Role::ToString - Named strings for TAP::Stream and TAP::Stream::Tex
 
 =head1 VERSION
 
-version 0.01
+version 0.44
 
 =head1 SYNOPSIS
 

@@ -1,5 +1,5 @@
 package TAP::Stream;
-$TAP::Stream::VERSION = '0.01';
+$TAP::Stream::VERSION = '0.44';
 # ABSTRACT: Combine multiple TAP streams with subtests
 
 use Moose;
@@ -103,7 +103,7 @@ TAP::Stream - Combine multiple TAP streams with subtests
 
 =head1 VERSION
 
-version 0.01
+version 0.44
 
 =head1 SYNOPSIS
 

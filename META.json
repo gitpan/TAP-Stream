@@ -40,10 +40,10 @@
       "homepage" : "https://github.com/Ovid/tap-stream",
       "repository" : {
          "type" : "git",
-         "url" : "git://github.com/Ovid/tap-stream.git",
+         "url" : "https://github.com/Ovid/tap-stream.git",
          "web" : "https://github.com/Ovid/tap-stream"
       }
    },
-   "version" : "0.01"
+   "version" : "0.44"
 }
 

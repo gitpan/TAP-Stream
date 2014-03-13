@@ -1,5 +1,5 @@
 package TAP::Stream::Text;
-$TAP::Stream::Text::VERSION = '0.01';
+$TAP::Stream::Text::VERSION = '0.44';
 # ABSTRACT: Create a TAP text object.
 
 use Moose;
@@ -30,7 +30,7 @@ TAP::Stream::Text - Create a TAP text object.
 
 =head1 VERSION
 
-version 0.01
+version 0.44
 
 =head1 SYNOPSIS
 

@@ -20,5 +20,5 @@ requires:
 resources:
   bugtracker: https://github.com/Ovid/tap-stream/issues
   homepage: https://github.com/Ovid/tap-stream
-  repository: git://github.com/Ovid/tap-stream.git
-version: 0.01
+  repository: https://github.com/Ovid/tap-stream.git
+version: 0.44
